@@ -14,7 +14,8 @@ Las principales tecnologías con las que trabajo incluyen:
 - Google Clous Platform (GCP)
 
   
-¿Qué es lo que busco? 🔎
+## ¿Qué es lo que busco? 🔎
+
 Mi objetivo profesional es seguir creciendo en el campo de la ciencia de datos, contribuyendo a proyectos innovadores y aprendiendo constantemente nuevas tecnologías. Siempre estoy listo  para colaborar en proyectos que combinen la precisión de los números con el poder de la ciencia de datos.
 
 ¡Es un gusto que estés aquí, esta es la oportunidad de trabajar juntos y transformar el mundo! 💥🚀
