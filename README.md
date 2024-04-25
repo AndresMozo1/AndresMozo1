@@ -6,14 +6,16 @@ Soy un Data Engineer con un pasado en el mundo gastronómico. Siempre me he sent
 
 Las principales tecnologías con las que trabajo incluyen:
 
-Python: bibliotecas como Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Surprise, NLTK
-Visualización de datos: Microsoft Power BI y Streamlit
-SQL y NoSQL
-Big Data: Hadoop, Hive, Apache Spark
-Herramientas de desarrollo: Visual Studio Code (VSC), GIT
-Google Clous Platform (GCP)
+- Python: bibliotecas como Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Surprise, NLTK
+- Visualización de datos: Microsoft Power BI y Streamlit
+- SQL y NoSQL
+- Big Data: Hadoop, Hive, Apache Spark
+- Herramientas de desarrollo: Visual Studio Code (VSC), GIT
+- Google Clous Platform (GCP)
+
+  
 ¿Qué es lo que busco? 🔎
-Mi objetivo profesional es seguir creciendo en el campo de la ciencia de datos, contribuyendo a proyectos innovadores y aprendiendo constantemente nuevas tecnologías. Siempre estoy listo/a para colaborar en proyectos que combinen la precisión de los números con el poder de la ciencia de datos.
+Mi objetivo profesional es seguir creciendo en el campo de la ciencia de datos, contribuyendo a proyectos innovadores y aprendiendo constantemente nuevas tecnologías. Siempre estoy listo  para colaborar en proyectos que combinen la precisión de los números con el poder de la ciencia de datos.
 
 ¡Es un gusto que estés aquí, esta es la oportunidad de trabajar juntos y transformar el mundo! 💥🚀
 
