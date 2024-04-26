@@ -24,7 +24,7 @@ Mi objetivo profesional es seguir creciendo en el campo de la ciencia de datos, 
 
 📧 Correo Electrónico: wmandres@gmail.com
 
-🔗 www.linkedin.com/in/wilmer-mozo
+![image](https://github.com/AndresMozo1/AndresMozo1/assets/76072127/7a3c3bd5-813d-4613-b5ba-7d5e9cf44c2b) www.linkedin.com/in/wilmer-mozo
 
 
 
