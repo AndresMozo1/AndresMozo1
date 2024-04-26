@@ -1,4 +1,10 @@
 
+
+![image](https://github.com/AndresMozo1/AndresMozo1/assets/76072127/17223a6b-6b12-48ea-9539-20ceaf4170a3)
+
+
+
+
 ## 👋 ¡Hola! Soy Wilmer.
 Soy un Data Engineer con un pasado en el mundo gastronómico. Siempre me he sentido atraído por los datos y los números. Después de 8 años en esta rama y viendo el impacto de la tecnología en el gremio, decidí adentrarme en el mundo de la Ciencia de Datos, donde descubrí una nueva perspectiva 😯💡: al integrar herramientas tecnológicas de vanguardia como Python, SQL, Power BI y Streamlit, he ampliado mi visión y comprensión de cómo se integran los datos con cualquier industria, extrayendo ideas de calidad para la toma de decisiones. Disfruto descubrir patrones, tendencias y correlaciones para entender mejor el mundo.
 
