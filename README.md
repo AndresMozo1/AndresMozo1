@@ -1,8 +1,5 @@
 
 
-![image](https://github.com/AndresMozo1/AndresMozo1/assets/76072127/17223a6b-6b12-48ea-9539-20ceaf4170a3)
-
-
 
 
 ## 👋 ¡Hola! Soy Wilmer.
