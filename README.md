@@ -18,7 +18,7 @@ Las principales tecnologías con las que trabajo incluyen:
 - SQL y NoSQL
 - Big Data: Hadoop, Hive, Apache Spark
 - Herramientas de desarrollo: Visual Studio Code (VSC), GIT
-- Google Clous Platform (GCP)
+- Google Cloud Platform (GCP)
 
   
 ## ¿Qué es lo que busco? 🔎
