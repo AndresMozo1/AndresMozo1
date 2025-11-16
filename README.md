@@ -6,32 +6,32 @@
 
 
 
-## 👋 ¡Hola! Soy Wilmer.
-Soy un Data Engineer con un pasado en el mundo gastronómico. Siempre me he sentido atraído por los datos y los números. Después de 8 años en esta rama y viendo el impacto de la tecnología en el gremio, decidí adentrarme en el mundo de la Ciencia de Datos, donde descubrí una nueva perspectiva 😯💡: al integrar herramientas tecnológicas de vanguardia como Python, SQL, Power BI y Streamlit, he ampliado mi visión y comprensión de cómo se integran los datos con cualquier industria, extrayendo ideas de calidad para la toma de decisiones. Disfruto descubrir patrones, tendencias y correlaciones para entender mejor el mundo.
+## 👋 Hi! I’m Wilmer..
 
-## Habilidades Técnicas 💻
+I am a Data Analyst with a background in the culinary industry 🍳. I have always been passionate about data and numbers 📊. After 8 years working in the culinary world, and seeing the impact of technology in my field, I decided to dive into the world of data 😯💡. By integrating cutting-edge tools like Python 🐍, SQL 🗃️, Power BI 📈, and Streamlit 💻, I expanded my vision and understanding of how data connects with any industry, extracting high-quality insights for better decision-making. I enjoy discovering patterns, trends, and correlations to better understand the world 🌍.
 
-Las principales tecnologías con las que trabajo incluyen:
+## My technical skills include: 💻
 
-- Python: bibliotecas como Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Surprise, NLTK
-- Visualización de datos: Microsoft Power BI y Streamlit
-- SQL y NoSQL
-- Big Data: Hadoop, Hive, Apache Spark
-- Herramientas de desarrollo: Visual Studio Code (VSC), GIT
-- Google Cloud Platform (GCP)
+Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Surprise, NLTK) 🐍
+
+Data visualization (Microsoft Power BI 📊, Streamlit 💻)
+
+SQL and NoSQL 🗃️
+
+Big Data tools (Hadoop, Hive, Apache Spark) ⚡
+
+Development tools (Visual Studio Code, Git) 💻
 
   
-## ¿Qué es lo que busco? 🔎
+## My goal 🔎
 
-Mi objetivo profesional es seguir creciendo en el campo de la ciencia de datos, contribuyendo a proyectos innovadores y aprendiendo constantemente nuevas tecnologías. Siempre estoy listo  para colaborar en proyectos que combinen la precisión de los números con el poder de la ciencia de datos.
+My professional goal is to keep growing in data analysis 📈, contribute to innovative projects 🚀, and constantly learn new technologies 📚. I am always ready to collaborate on projects that combine the power of numbers with data science 🔢.
 
-¡Es un gusto que estés aquí, esta es la oportunidad de trabajar juntos y transformar el mundo! 💥🚀
+Nice to have you here! This is a chance to work together and transform the world 🌟.
 
-¡No dudes en contactarme! 📥
-
-📧 Correo Electrónico: wmandres@gmail.com
-
-  www.linkedin.com/in/wilmer-mozo
+Feel free to contact me!
+Email: wmandres@gmail.com 📧
+LinkedIn: www.linkedin.com/in/wilmer-mozo 🔗
 
 
 
